@@ -438,6 +438,11 @@ del /Q "%cd%\TimeShut.bat"
 del /Q "%cd%\Notice d'utilisation.txt"
 rmdir /S /Q "%USERPROFILE%\program files"
 cls
+echo -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+echo.                                                                                                           
+echo                                         ^< ^< ^< TimeShut By Ayman Baddou ^> ^> ^>                                       
+echo.                                                                                                         
+echo -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 echo tous les fichiers sont dessinstallee avec succes
 pause
 exit
