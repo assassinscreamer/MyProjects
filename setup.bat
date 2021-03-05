@@ -329,6 +329,7 @@ echo lire la notice d'utilisation avant faire quelque chose (si c'est la premier
 timeout 30
 exit
 :insnote
+cls
 echo -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 echo.                                                                                                           
 echo                                         ^< ^< ^< TimeShut By Ayman Baddou ^> ^> ^>                                       
